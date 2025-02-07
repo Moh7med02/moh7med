@@ -51,7 +51,7 @@
     <h1>Projects</h1>
     <div class="project-container">
       <div class="project">
-        <h3>AL URUBAH PARK</h3>
+        < <h3>AL URUBAH PARK</h3>
         <p>
 The Board of Directors of the Royal Commission for Riyadh City (RCRC) announced the ‎start of the construction works of Al-Urubah Park, one of the largest parks in the city of ‎Riyadh, as part of the ‘Green Riyadh’ project.‎.</p>
         </div>
