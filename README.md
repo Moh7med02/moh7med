@@ -54,6 +54,15 @@
         <h3>AL URUBAH PARK</h3>
         <p>
 The Board of Directors of the Royal Commission for Riyadh City (RCRC) announced the ‎start of the construction works of Al-Urubah Park, one of the largest parks in the city of ‎Riyadh, as part of the ‘Green Riyadh’ project.‎.</p>
+        </div>
+<div class="project">
+<h3>Exit 10 - Al Hamra Development</h3>
+        <p>The project involved Civil and MEP works for the entire development comprises two levels with various offerings spread across atriums - central atrium, thrill district, festive district, wonder district, wellness district, and food district. The development also comprises one level of parking in the basement..</p> </div>
+  </section>
+         <p>The project involved Civil and MEP works for the entire development comprises two levels with various offerings spread across atriums - central atrium, thrill district, festive district, wonder district, wellness district, and food district. The development also comprises one level of parking in the basement..</p> </div>
+<section id="contact">
+<h1>Contact</h1>
+<p>If you'd like to get in touch with me, feel free to email me at: <strong>moh7med02@gmail.com</strong></p>
       </div>
       <div class="project">
         <h3>Exit 10 - Al Hamra Development</h3>
