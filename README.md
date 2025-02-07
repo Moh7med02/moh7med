@@ -58,10 +58,8 @@ The Board of Directors of the Royal Commission for Riyadh City (RCRC) announced 
       <div class="project">
         <h3>Exit 10 - Al Hamra Development</h3>
         <p>The project involved Civil and MEP works for the entire development comprises two levels with various offerings spread across atriums - central atrium, thrill district, festive district, wonder district, wellness district, and food district. The development also comprises one level of parking in the basement..</p>
-      </div>
     </div>
   </section>
-
   <section id="contact">
     <h1>Contact</h1>
     <p>If you'd like to get in touch with me, feel free to email me at: <strong>moh7med02@gmail.com</strong></p>
